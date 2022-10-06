@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				237,
+				421
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Dies"
+		},
+		{
+			"offsets": [
+				-45,
+				-151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "DeadEnd"
+		},
+		{
+			"offsets": [
+				-45,
+				-151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "DeadLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KnokDead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "knok",
+	"flip_x": true,
+	"healthbar_colors": [
+		236,
+		67,
+		77
+	],
+	"camera_position": [
+		20,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

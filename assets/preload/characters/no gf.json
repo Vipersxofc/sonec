@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				545,
+				114
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FreddyLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				223,
+				113
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FreddyDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				313,
+				124
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FreddyUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				230,
+				113
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FreddyRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				331,
+				28
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "FreddyIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/no gf",
+	"position": [
+		70,
+		-120
+	],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		112,
+		112
+	],
+	"camera_position": [
+		-60,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

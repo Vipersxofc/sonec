@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				55,
+				198
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				15,
+				197
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				14,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				24,
+				217
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				126,
+				322
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "R_Miss"
+		},
+		{
+			"offsets": [
+				217,
+				249
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "L_Miss"
+		},
+		{
+			"offsets": [
+				115,
+				191
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "D_Miss"
+		},
+		{
+			"offsets": [
+				124,
+				327
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "U_Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Knok",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Knok",
+	"flip_x": true,
+	"healthbar_colors": [
+		236,
+		67,
+		77
+	],
+	"camera_position": [
+		40,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
