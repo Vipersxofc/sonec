@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gone.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FreddyDown0000" x="100" y="100" width="918" height="1156"/>
+	<SubTexture name="FreddyDown0001" x="1018" y="100" width="918" height="1156"/>
+	<SubTexture name="FreddyDown0002" x="1936" y="100" width="918" height="1156"/>
+	<SubTexture name="FreddyDown0003" x="2854" y="100" width="918" height="1156"/>
+	<SubTexture name="FreddyDown0004" x="3772" y="100" width="918" height="1156"/>
+	<SubTexture name="FreddyDown0005" x="4690" y="100" width="918" height="1156"/>
+	<SubTexture name="FreddyDown0006" x="5608" y="100" width="918" height="1156"/>
+	<SubTexture name="FreddyIdle0000" x="6526" y="100" width="1244" height="961"/>
+	<SubTexture name="FreddyIdle0001" x="100" y="1256" width="1244" height="961"/>
+	<SubTexture name="FreddyIdle0002" x="1344" y="1256" width="1244" height="961"/>
+	<SubTexture name="FreddyIdle0003" x="2588" y="1256" width="1244" height="961"/>
+	<SubTexture name="FreddyIdle0004" x="3832" y="1256" width="1244" height="961"/>
+	<SubTexture name="FreddyLeft0000" x="5076" y="1256" width="1792" height="1119"/>
+	<SubTexture name="FreddyLeft0001" x="100" y="2375" width="1792" height="1119"/>
+	<SubTexture name="FreddyLeft0002" x="1892" y="2375" width="1792" height="1119"/>
+	<SubTexture name="FreddyLeft0003" x="3684" y="2375" width="1792" height="1119"/>
+	<SubTexture name="FreddyLeft0004" x="5476" y="2375" width="1792" height="1119"/>
+	<SubTexture name="FreddyPlush0000" x="100" y="3494" width="1224" height="1120"/>
+	<SubTexture name="FreddyRight0000" x="1324" y="3494" width="1174" height="1119"/>
+	<SubTexture name="FreddyRight0001" x="2498" y="3494" width="1174" height="1119"/>
+	<SubTexture name="FreddyRight0002" x="3672" y="3494" width="1174" height="1119"/>
+	<SubTexture name="FreddyRight0003" x="4846" y="3494" width="1174" height="1119"/>
+	<SubTexture name="FreddyRight0004" x="6020" y="3494" width="1174" height="1119"/>
+	<SubTexture name="FreddyUp0000" x="100" y="4614" width="1152" height="1146"/>
+	<SubTexture name="FreddyUp0001" x="1252" y="4614" width="1152" height="1146"/>
+	<SubTexture name="FreddyUp0002" x="2404" y="4614" width="1152" height="1146"/>
+	<SubTexture name="FreddyUp0003" x="3556" y="4614" width="1152" height="1146"/>
+</TextureAtlas>
